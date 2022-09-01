@@ -76,8 +76,10 @@ Total: 16,5 Arbeitspakete
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.1  |  1.08     |  Jan         |    1AP           |   30min                |
+| 2.1  |    1.08   | Jan          |  3AP             |    100 min                |
+|  4   |1.08     |Jan|25min | 20min|
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
