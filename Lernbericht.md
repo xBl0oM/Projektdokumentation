@@ -3,15 +3,15 @@ Jan Frey
 
 ## Einleitung
 
-Wir haben im Lernatelier eine ZAhlengenerator Spiel programmiert.
+Wir haben im Lernatelier eine Zahlengenerator Spiel programmiert.
 
 ## Was habe ich gelernt?
 
-Dabei habe ich die Try Cath methode kennengelernt.
+Dabei habe ich die Try/Catch methode kennengelernt.
 
 ## Beschreibung
-Die Try Catch Methode ist ein Weg um das Abstürzen des Programmes zu verhindern. Ich habe die Try Cath methode folgendermassen gebraucht: Ich habe den Benutzer nach einer
-Zahl abgefragt. Was Passiert jetzt aber, wenn der Benutzer einen Buchstaben abgibt? Das Programm stürzt ab. Und hier kommt die try Catch methode ins Spiel. 
+Die Try/Catch Methode ist ein Weg um das Abstürzen des Programmes zu verhindern. Ich habe die Try/Cath methode folgendermassen gebraucht: Ich habe den Benutzer nach einer
+Zahl abgefragt. Was Passiert jetzt aber, wenn der Benutzer einen Buchstaben abgibt? Das Programm stürzt ab. Und hier kommt die Try/Catch methode ins Spiel. 
 Die Methode funktioniert folgendermassen:
 ```csharp 
 bool verstanden = false;
@@ -40,18 +40,23 @@ Hier noch ein Beispiel im echten Code
 ![image](https://user-images.githubusercontent.com/111044215/191687971-4bca8980-b7be-4be5-be90-bd7ad5203f10.png)
 
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+https://user-images.githubusercontent.com/111044215/191690956-1b1fd879-e51e-4b8b-a994-9b52ca65ffa2.mp4
+
+
 
 ## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im ersten Code sieht man den aufbau einer Try/Catch schleife. 
+Das zweite Bild zeigt die Try/Catch schleife in meinem Code. 
+Der Text erklärt wie eine Try/Catch schleife funktioniert und für was man sie brauchen kann. 
+Das Video Demonstriert die Try/Catch schleife. 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Arbeiten im Präsenz- und Heimunterricht ist mir sehr gut gelungen. 
 
-👎 und etwas, was nicht gut lief.
+Ich war manchmal auf grund von zu wenig Schlaf unmotiviert und müde.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+**VBV**: Ich versuche meinen Schlafrhytmus umzuformen, um mehr Schlaf zu bekommen.
