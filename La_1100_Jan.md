@@ -41,9 +41,9 @@ Der Random Number Generator ist ein generator, der eine Zufällige Zahl zwischen
 |3.1|Generierte Zahl ist 24|eingabe Abcd|Nachricht: Ich verstehe leider nur Zahlen|
 |3.2|Generierte Zahl ist 24|eingabe -999| Nachricht: Ich verstehe leider nur Zahlen zwischen 1-100|
 |4.1|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode| Wählt Hard Mode aus| bekommt neue Herausf bekommt neue Herausforde orderung, z.B auf Zeit|
-|5.1|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode|Wählt Hard Mode aus|bekommt neue Herausf bekommt neue Herausforde orderung, z.B nur 5 versuche|
-|6.1|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode| Clickt auf Hard Mode| Drop Down Menü erscheint zur auswahl der Modi|
-|7.1|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode|Clickt auf Hard Mode| Hard Mode: 1-1000|
+|4.2|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode|Wählt Hard Mode aus|bekommt neue Herausf bekommt neue Herausforde orderung, z.B nur 5 versuche|
+|4.3|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode| Clickt auf Hard Mode| Hrd Mode 1-1000|
+|5.1|Benutzer hat Normalen Modus geschaft und sieht den Hard Mode|Clickt auf Hard Mode| Drop Down Menü erscheint zur auswahl der Modi|
 
 
 ### 1.4 Diagramme![PapDesigner - Zufallszahl pap 25 08 2022 11_28_12](https://user-images.githubusercontent.com/111044215/186629037-996a88d8-0520-4ff1-a57c-457a16ab5299.png)
@@ -58,20 +58,18 @@ Der Random Number Generator ist ein generator, der eine Zufällige Zahl zwischen
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.1  | 1.9.22 |  Jan |Code zum Zahlen generieren bringen|1 Arbeitspaket|
 | 2.1 |1.9.22   |    Jan       |    Code grundsatz fertig d.h Spiel funktioniert soweit|3 AP|
-| 4 | 8.9.22|Jan| Tips fürs Spiel|0.5 Ap|
-|5.1|15.9.22|Jan| Bessere Fehlermeldung| 1 Ap|
-|5.2|15.9.22|Jan| Bessere Fehlermeldung| 1 Ap|
-|6.1|22.9.22|Jan| Hard Mode| 3 Ap|
-|6.2|29.9.22| Jan| Hard Mode 2.0|3Ap|
-|6.3|29.8.22|Jan|Hard Mode 3.0|2Ap|
-|8.1|29.9.22| Jan|Drop Down Liste|2AP|
+| 3 | 8.9.22|Jan| Tips fürs Spiel|0.5 Ap|
+|4.1|15.9.22|Jan| Bessere Fehlermeldung| 1 Ap|
+|5.1|22.9.22|Jan| Hard Mode auf Zeit| 3 Ap|
+|5.2|29.9.22| Jan| Hard Mode 1-10003Ap|
+|5.3|29.8.22|Jan|Hard Mode beides zusammen|2Ap|
+|6.1|29.9.22| Jan|Drop Down Liste|2AP|
 
 Total: 14,5 Arbeitspakete
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
@@ -85,28 +83,27 @@ Total: 14,5 Arbeitspakete
 
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | Tester | Fazit |
+| ---- | ----- | -------- | ------ | ----- |
+| 1.1  |    22.09.2022   |  funktioniert       | Jan       |-|
+| 2.1 |  22.09.2022     |    funktioniert      |    Jan    |-|
+|3.1|22.09.2022|funkioniert|Jan|-|
+|4.1|22.09.2022|funktioniert|Jan|-|
+|4.2|22.09.2022|funktioniert|Jan|-|
+|5.1|22.09.2022|funktioniert nicht|Jan|Ich hatte nicht mehr genug Zeit um einen Timer gut umzusetzen.|
+|5.2|22.09.2022|funtioniert|Jan|-|
+|5.3|22.09.2022|funktioniert nicht|Jan|War zu kompliziert.|
+|6.1|22.09.2022|funktioniert nicht|Jan|War zu kompliziert.|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Lernbericht ist im Repo von der Projektdukumentation.
